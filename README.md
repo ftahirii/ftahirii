@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ftahirii  
+- 👀 I’m interested in crafting innovative, scalable, and user-friendly web and mobile applications. My core focus areas include React.js, Next.js, Angular, Node.js, and TypeScript.  
+- 🌱 I’m currently learning advanced AI integrations and enhancing my skills in performance optimization for large-scale applications.  
+- 💞️ I’m looking to collaborate on projects involving SaaS platforms, full-stack development, and cross-platform applications that push the boundaries of modern web technologies.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fath-tahiri/), [Email](mailto:fath.tahirii@gmail.com).
